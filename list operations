@@ -1,2 +1,4 @@
 list_1 = [1, 2, 1, 4, 6]
-print(list(set(list_1)))
+list_2 = [3,6,7,4,9]
+# print(list(set(list_1)))
+# Remove the items that are duplicated in two lists
